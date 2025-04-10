@@ -102,7 +102,7 @@ def update_backup_paths():
         "Ma musique": f"\\\\{pc_name}\\C$\\Users\\{selected_user}\\Music",
         "Mes vidéos": f"\\\\{pc_name}\\C$\\Users\\{selected_user}\\Videos",
         "Téléchargements": f"\\\\{pc_name}\\C$\\Users\\{selected_user}\\Downloads",
-        "Thunderbird": f"\\\\{pc_name}\\C$\\Users\\{selected_user}\\AppData\\Roaming\\thunderbird",
+        "thunderbird": f"\\\\{pc_name}\\C$\\Users\\{selected_user}\\AppData\\Roaming\\thunderbird",
         "Mozilla": f"\\\\{pc_name}\\C$\\Users\\{selected_user}\\AppData\\Roaming\\Mozilla",
         "LRPPN3/INSER_AUTO": f"\\\\{pc_name}\\C$\\clients\\LRPPN3\\INSER_AUTO"
     }
